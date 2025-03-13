@@ -23,7 +23,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 Your Name</p>
+        <p>&copy; 2025 sinaakili</p>
     </footer>
 
     <script src="script.js"></script>
